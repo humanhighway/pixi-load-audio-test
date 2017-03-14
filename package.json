@@ -1,0 +1,10 @@
+{
+  "name": "pixi-loader-audo-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
+  }
+}
